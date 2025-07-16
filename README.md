@@ -1,5 +1,5 @@
 # mcpe-crack
-License Check Bypasser for Minecraft for Android
+Google Play License Check Bypasser for Minecraft for Android
 
 # Before doing this
 This repository is for people who bought the game legally. Please consider buying Minecraft instead of cracking.
