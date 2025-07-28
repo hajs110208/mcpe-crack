@@ -1,3 +1,6 @@
+# [English](README.md) | 한국어
+
+
 # mcpe-crack
 마인크래프트 안드로이드 버전용 크랙 코드
 
