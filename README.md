@@ -1,3 +1,5 @@
+# English | [한국어](README_KO.md)
+
 # mcpe-crack
 Google Play License Check Bypasser for Minecraft for Android
 
