@@ -29,5 +29,5 @@ Grab some tools. MT Manager and Apktool M are used in the guide.
 
 # Congrats!
 Now you successfully cracked the game.
-If that is way too complicated, just replace the smali file. You can find it on the release section.
+If that is way too complicated, just replace the smali file. You can find it in the repository.
 
