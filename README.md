@@ -3,6 +3,10 @@
 # mcpe-crack
 Google Play License Check Bypasser for Minecraft for Android
 
+# Important: Not working on 1.21.111 and above
+
+Mojang introduced pairip protection to their app. It will work on 1.21.101 and older.
+
 # Before doing this
 This repository is for people who bought the game legally. Please consider buying Minecraft instead of cracking.
 
